@@ -1,2 +1,6 @@
 # Energy-Disaggregation
-Energy Disaggregation
+Energy disaggregation - A process to isolate energy consumption of individual appliances from Electric Meter's total energy consumption. Number of meters vary by per residential, large residential, commercial & Industrial and large commercial. Disaggregation is often done at the meter level and individual sub-component varies by type of customer. For example, in residential, energy consumption of individual appliances can be useful in many ways to understand their energy usage and help them to save energy. 
+
+Utilities are continuously inventing ways to charge more and more. For example, Time of Use(TOU) - where the pricing of electricity based on the estimated cost of electricity during a particular time block, either time-of-day or by season. This allows utilities to track or record your consumption during a specific time period. Energy disaggregation of energy usage at individual appliance will definitely help the consumers to turn on or of and what would be the ideal time for doing that. Disaggregated consumption information may also help identify malfunctioning equipments or appliances. Utilities also benefit from disaggregated data with valuable information to facilitate power capacity  planning, load forecasting and help promote rebate programs for replacing malfunctioning equipments.
+
+## Disaggregation using Deep Neural Network
